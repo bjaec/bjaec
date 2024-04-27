@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎶📱👨‍🍳 I am currently working on building a more interactive version of Spotify's AI DJ using Python and leveraging OpenAI's and Spotify's APIs <br><br>🏀  I am also working on a machine learning model predicting NBA players' performance based on past performance metrics 
+🎶📱👨‍🍳 I am currently working on building a more interactive version of Spotify's AI DJ using Python and leveraging OpenAI's and Spotify's APIs <br><br> 
 
 # 💻 Tech Stack:
 
