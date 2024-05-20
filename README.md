@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-🎶📱👨‍🍳 I am currently working on building a more interactive version of Spotify's AI DJ using Python and leveraging OpenAI's and Spotify's APIs <br><br> 
+🎶📱📊 I am currently working on building a full-stack Spotify visualization dashboard dissecting listening habits like acousticness, energy, and loudness of songs. <br><br> 
 
 # 💻 Tech Stack:
 
